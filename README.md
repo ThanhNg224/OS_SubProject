@@ -3,7 +3,7 @@ Operating System module SubProject
 - Assignment 1: Threads( Advanced Scheduler)
 - Assignment 2: User programs(Argument passing)
 
-  Pintos, including its documentation, is subject to the following
+Pintos, including its documentation, is subject to the following
 license:
 
     Copyright (C) 2004, 2005, 2006 Board of Trustees, Leland Stanford
@@ -59,12 +59,9 @@ license:
    PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR
    MODIFICATIONS.
 */
-
 Also, code derived from MIT's 6.828 course code is subject to the
 following license:
-
-/*
- * Copyright (C) 1997 Massachusetts Institute of Technology 
+/*Copyright (C) 1997 Massachusetts Institute of Technology 
  *
  * This software is being provided by the copyright holders under the
  * following license. By obtaining, using and/or copying this software,
